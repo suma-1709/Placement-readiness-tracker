@@ -109,7 +109,7 @@ python app.py
 
 ## Author
 
-Developed by Harsha.
+Developed by Suma.
 
 ## License
 
